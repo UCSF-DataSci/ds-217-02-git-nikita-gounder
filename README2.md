@@ -19,4 +19,4 @@ print(sum)
 
 Adding a link to the official [Python website](https://www.python.org)
 
-![My Installation Screenshot](screenshots/pandas_installpng.png "Pandas installation")
+![My Installation Screenshot](screenshots:pandas_install.png "Pandas installation")
