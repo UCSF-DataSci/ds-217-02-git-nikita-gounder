@@ -19,4 +19,8 @@ print(sum)
 
 Adding a link to the official [Python website](https://www.python.org)
 
+Pandas Installation Screenshot
 ![My Installation Screenshot](pandas_install.png "Pandas installation")
+
+Fave Meme
+![Question Mark](https://miro.medium.com/v2/resize:fit:1400/1*GI-td9gs8D5OKZd19mAOqA.png "Question Mark Meme")
