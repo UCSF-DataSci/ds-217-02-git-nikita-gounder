@@ -1,4 +1,4 @@
-# **Python File from Assignment 1 :**
+## **Python File from Assignment 1 :**
 ```
 print("Hello, Data Science!")
 ```
@@ -17,10 +17,10 @@ for i in range(1000):
 print(sum)
 ```
 
-Adding a link to the official [Python website](https://www.python.org)
+## Adding a link to the official [Python website](https://www.python.org)
 
-Pandas Installation Screenshot
+## Pandas Installation Screenshot:
 ![My Installation Screenshot](pandas_install.png "Pandas installation")
 
-Fave Meme
+## Fave Meme:
 ![Question Mark](https://miro.medium.com/v2/resize:fit:1400/1*GI-td9gs8D5OKZd19mAOqA.png "Question Mark Meme")
